@@ -4,3 +4,6 @@ Material y pracitcas del Curso "Python for Data Science, AI &amp; Development" h
 
 
 Docuementación colgada: https://github.com/sambhipiyush/Python-for-Data-Science-and-AI-IBM
+
+
+Video explicación de Visual Studio code con Github : https://www.google.com/search?q=Introduction+to+Github+and+Visual+Studio+Code&rlz=1C1GCEA_enES844ES844&oq=Introduction+to+Github+and+Visual+Studio+Code&aqs=chrome..69i57j0i22i30l3j69i60.155j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=_bLfGYoXzCMX3kgWzt4_4BQ39
