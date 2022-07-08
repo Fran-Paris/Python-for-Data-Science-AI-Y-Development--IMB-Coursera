@@ -12,3 +12,6 @@ Añadir una nueva linea desde VScode
 
 
 Nueva sincronización
+Otro cambio mas por si acaso 
+Tengo q dar a guardar
+
